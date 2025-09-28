@@ -1,0 +1,24 @@
+{
+  "name": "fishtank-webgl-react-final",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000"
+  },
+  "dependencies": {
+    "@react-three/drei": "9.97.6",
+    "@react-three/fiber": "8.15.16",
+    "next": "14.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "three": "0.160.0",
+    "zustand": "4.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "@types/react": "^18.2.56",
+    "typescript": "5.9.2"
+  }
+}
